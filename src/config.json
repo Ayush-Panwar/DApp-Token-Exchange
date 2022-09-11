@@ -1,0 +1,23 @@
+{
+  "31337": {
+    "exchange": { "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9" },
+    "DApp": { "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3" },
+    "mETH": { "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512" },
+    "mDAI": { "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0" },
+    "explorerURL": "#"
+  },
+  "42": {
+    "exchange": { "address": "0xf1cD6cC708A54b168c1B68e0E940e7152B67c826" },
+    "DApp": { "address": "0x27B4AB600B844a5438e802d8279A8D6A663033A1" },
+    "mETH": { "address": "0x67349f4839e7651fE3B420CB2A0171758F5A82F8" },
+    "mDAI": { "address": "0xDea80BF79B9FFe845606C5ea3Eb04D865f9231da" },
+    "explorerURL": "https://kovan.etherscan.io/"
+  },
+  "80001": {
+    "exchange": { "address": "0x0231329A08Ec5E57b6CFE0b1F5888A509a1001a2" },
+    "DApp": { "address": "0x67349f4839e7651fE3B420CB2A0171758F5A82F8" },
+    "mETH": { "address": "0xDea80BF79B9FFe845606C5ea3Eb04D865f9231da" },
+    "mDAI": { "address": "0xf1cD6cC708A54b168c1B68e0E940e7152B67c826" },
+    "explorerURL": "https:/mumbai.polygonscan.com"
+  }
+}
